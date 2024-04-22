@@ -50,4 +50,4 @@ This project serves as a demonstration of my skills in Vue.js development, API i
 If you are interested in collaborating on this project or any other opportunities, feel free to reach out to me at: [https://notebook-portfolio.vercel.app/]
 
 **License**
-MIT License: [https://choosealicense.com/licenses/mit/](https://choosealicense.com/licenses/mit/) (or your preferred license)
+MIT License: [https://choosealicense.com/licenses/mit/](https://choosealicense.com/licenses/mit/)
